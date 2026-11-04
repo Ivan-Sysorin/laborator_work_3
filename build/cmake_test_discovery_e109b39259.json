@@ -1,0 +1,74 @@
+{
+  "tests": 10,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "Stack",
+      "tests": 5,
+      "testsuite": [
+        {
+          "name": "can_add_an_element_to_the_en",
+          "file": "\/home\/john\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/laborator_work_3\/tests\/stack_tests.cpp",
+          "line": 4
+        },
+        {
+          "name": "cannot_return_top_is_empty_stack",
+          "file": "\/home\/john\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/laborator_work_3\/tests\/stack_tests.cpp",
+          "line": 9
+        },
+        {
+          "name": "can_return_top_if_is_not_empty_stack",
+          "file": "\/home\/john\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/laborator_work_3\/tests\/stack_tests.cpp",
+          "line": 14
+        },
+        {
+          "name": "can_return_is_empty",
+          "file": "\/home\/john\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/laborator_work_3\/tests\/stack_tests.cpp",
+          "line": 20
+        },
+        {
+          "name": "can_return_is_not_empty",
+          "file": "\/home\/john\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/laborator_work_3\/tests\/stack_tests.cpp",
+          "line": 25
+        }
+      ]
+    },
+    {
+      "name": "TArithmeticExpression",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "right_arithmetic",
+          "file": "\/home\/john\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/laborator_work_3\/tests\/arithmetic_expression.cpp",
+          "line": 5
+        },
+        {
+          "name": "right_calculation",
+          "file": "\/home\/john\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/laborator_work_3\/tests\/arithmetic_expression.cpp",
+          "line": 10
+        },
+        {
+          "name": "right_record",
+          "file": "\/home\/john\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/laborator_work_3\/tests\/arithmetic_expression.cpp",
+          "line": 15
+        },
+        {
+          "name": "can_right_get_operands",
+          "file": "\/home\/john\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/laborator_work_3\/tests\/arithmetic_expression.cpp",
+          "line": 20
+        }
+      ]
+    },
+    {
+      "name": "TArithmeticExpressionTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "CalculateWithBrackets",
+          "file": "\/home\/john\/\u00D0\u0094\u00D0\u00BE\u00D0\u00BA\u00D1\u0083\u00D0\u00BC\u00D0\u00B5\u00D0\u00BD\u00D1\u0082\u00D1\u008B\/laborator_work_3\/tests\/arithmetic_expression.cpp",
+          "line": 26
+        }
+      ]
+    }
+  ]
+}
